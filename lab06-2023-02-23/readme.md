@@ -107,7 +107,7 @@
 ###    11.3 วาดภาพ Architecture ของ Cloud Service ของเรา
   ![Alt text](./image/07.png)
 ###    11.4 ชื่อ Cloud ที่เราให้บริการมีชื่อว่าอะไร
-####    - Golf cloud
+####    - Aiem cloud
 ###    11.5 Cloud ของเรามี service อะไร ที่ให้บริการผู้ใช้งานได้บ้าง
 ####    - SaaS
 ####      เป็นบริการสำหรับ User
